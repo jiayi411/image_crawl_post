@@ -1,0 +1,10 @@
+{
+  "name": "autopostwp",
+  "version": "1.0.0",
+  "description": "wordpress auto poster",
+  "author": "jiayi",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
